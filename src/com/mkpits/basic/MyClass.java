@@ -23,6 +23,10 @@ public class MyClass {
 		
 		String name="Ashik";
 
+
+
+		String name1="Pranav";
+
 	}
 
 }
