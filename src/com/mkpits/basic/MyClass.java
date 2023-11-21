@@ -15,6 +15,7 @@ public class MyClass {
 		
 		float salary = 120000.4567f;
 		char ch = 'K';
+		String K = "karan";
 	}
 
 }
