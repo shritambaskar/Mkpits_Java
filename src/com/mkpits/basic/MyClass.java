@@ -14,8 +14,15 @@ public class MyClass {
 		boolean isActive = true;
 		
 		float salary = 120000.4567f;
+
 		char ch = 'K';
 		String K = "karan";
+
+		
+		double id = 34.678903;
+		
+		String name="Ashik";
+
 	}
 
 }
