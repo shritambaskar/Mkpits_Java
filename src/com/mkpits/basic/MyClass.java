@@ -15,9 +15,6 @@ public class MyClass {
 		
 		float salary = 120000.4567f;
 		
-		double id = 34.678903;
-		
-		String name="Ashik";
 	}
 
 }
