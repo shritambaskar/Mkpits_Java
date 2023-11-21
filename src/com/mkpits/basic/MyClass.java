@@ -21,12 +21,13 @@ public class MyClass {
 
 		
 
-int h =726762726;
-int gg =77987;
-
-int data = 1233;
-	
-String name="samiksha";
+		int h =726762726;
+		int gg =77987;
+		
+		int data = 1233;
+			
+		String name="samiksha";
+		String myName = "Samiksha Paidlewar";
 
 	}
 
