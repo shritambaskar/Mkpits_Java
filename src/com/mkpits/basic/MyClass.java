@@ -12,6 +12,8 @@ public class MyClass {
 		int pinCode = 440030;
 		String cityName = "Nagpur";
 		boolean isActive = true;
+		
+		float salary = 120000.4567f;
 	}
 
 }
