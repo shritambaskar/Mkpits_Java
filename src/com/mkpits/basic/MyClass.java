@@ -18,6 +18,7 @@ public class MyClass {
 		double id = 34.678903;
 		
 		String name="Ashik";
+		String name1="Pranav";
 	}
 
 }
