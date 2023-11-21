@@ -14,7 +14,7 @@ public class MyClass {
 		boolean isActive = true;
 		
 		float salary = 120000.4567f;
-		integer i = 7;
+		int i = 7;
 	}
 
 }
