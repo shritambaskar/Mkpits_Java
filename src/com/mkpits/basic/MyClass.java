@@ -18,14 +18,16 @@ public class MyClass {
 		
 		int i = 7;
 		
-<<<<<<< HEAD
+
 		
-=======
+
 int h =726762726;
 int gg =77987;
+
+int data = 1233;
 	
 String name="samiksha";
->>>>>>> branch 'master' of https://github.com/shritambaskar/Mkpits_Java.git
+
 	}
 
 }
