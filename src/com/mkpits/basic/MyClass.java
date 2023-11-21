@@ -11,6 +11,7 @@ public class MyClass {
 	
 		int pinCode = 440030;
 		String cityName = "Nagpur";
+		boolean isActive = true;
 	}
 
 }
