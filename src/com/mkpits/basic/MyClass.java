@@ -9,6 +9,8 @@ public class MyClass {
 		System.out.println("");
 		ArrayIndexOutOfBoundsException ar = new ArrayIndexOutOfBoundsException();
 	
+		int pinCode = 440030;
+		String cityName = "Nagpur";
 	}
 
 }
