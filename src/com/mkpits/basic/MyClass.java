@@ -18,7 +18,7 @@ public class MyClass {
 		char ch = 'K';
 		String K = "karan";
 
-		
+		int a=789;
 		double id = 34.678903;
 		
 		String name="Ashik";
