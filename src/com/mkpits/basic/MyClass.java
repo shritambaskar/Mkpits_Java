@@ -19,16 +19,24 @@ public class MyClass {
 		int i = 7;
 		
 
+
+		int a=789;
+		double id = 34.678903;
+
 		
 
 		int h =726762726;
 		int gg =77987;
+
 		
 		int data = 1233;
 			
 		String name="samiksha";
 		String myName = "Samiksha Paidlewar";
-
+		
+		String nam= "Ashik";
+		String name1="Pranav";
+        String greetings = "hello everyone";
 	}
 
 }
