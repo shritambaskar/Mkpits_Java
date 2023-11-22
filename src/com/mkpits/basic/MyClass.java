@@ -36,7 +36,7 @@ public class MyClass {
 		
 		String nam= "Ashik";
 		String name1="Pranav";
-
+        String greetings = "hello everyone";
 	}
 
 }
