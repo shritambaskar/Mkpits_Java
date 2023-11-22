@@ -14,11 +14,6 @@ public class MyClass {
 		boolean isActive = true;
 		
 		float salary = 120000.4567f;
-		int i = 7;
-		
-int h =726762726;
-int gg =77987;
-	
 		
 	}
 
