@@ -15,17 +15,26 @@ public class MyClass {
 		
 		float salary = 120000.4567f;
 
-		char ch = 'K';
-		String K = "karan";
+		
+		int i = 7;
+		
+
 
 		int a=789;
 		double id = 34.678903;
+
 		
-		String name="Ashik";
 
+		int h =726762726;
+		int gg =77987;
 
-
-		String name1="Pranav";
+		
+		int data = 1233;
+			
+		String name="samiksha";
+		String myName = "Samiksha Paidlewar";
+		
+		String nam= "Ashik";
 
 	}
 

@@ -1,7 +1,7 @@
 package com.mkpits.advance;
 
 public class Test {
-
+    int n = 100;
 	int a = 90;
 	static public void main(String[] a) {
 		System.out.println(""+4);
