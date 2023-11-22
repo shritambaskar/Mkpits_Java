@@ -35,6 +35,7 @@ public class MyClass {
 		String myName = "Samiksha Paidlewar";
 		
 		String nam= "Ashik";
+		String name="hello";
 
 	}
 
