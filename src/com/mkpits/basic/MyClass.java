@@ -15,6 +15,8 @@ public class MyClass {
 		
 		float salary = 120000.4567f;
 		
+		System.out.println(VaibhavJavaClass.mobile);
+		
 	}
 
 }
