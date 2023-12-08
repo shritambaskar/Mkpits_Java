@@ -14,15 +14,22 @@ public class MyClass {
 		boolean isActive = true;
 		
 		float salary = 120000.4567f;
+<<<<<<< HEAD
 
 		
 		int i = 7;
+=======
+>>>>>>> branch 'master' of https://github.com/shritambaskar/Mkpits_Java.git
 		
+<<<<<<< HEAD
 
 
 		int a=789;
 		double id = 34.678903;
 
+=======
+		System.out.println(VaibhavJavaClass.mobile);
+>>>>>>> branch 'master' of https://github.com/shritambaskar/Mkpits_Java.git
 		
 
 		int h =726762726;

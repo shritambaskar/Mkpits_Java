@@ -1,0 +1,9 @@
+[submodule "Jagdambha_College"]
+	path = Jagdambha_College
+	url = https://github.com/shritambaskar/Jagdambha_College.git
+[submodule "My_App"]
+	path = My_App
+	url = https://github.com/shritambaskar/My_App.git
+[submodule "swing"]
+	path = swing
+	url = https://github.com/shritambaskar/swing.git
